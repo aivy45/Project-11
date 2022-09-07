@@ -9,7 +9,7 @@
   - CSS Positioning
 
 # Time taken to complete
-- # 8-9 hours
+- 8-9 hours
 
 # Here is the live link of this project
 - [Live Link](https://project11-ineuron-45.netlify.app/)
